@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HackItProtoType2", "HackItProtoType2\HackItProtoType2.vcxproj", "{FC568C27-843B-48DC-A9F8-CE3B7E205D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC568C27-843B-48DC-A9F8-CE3B7E205D67}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC568C27-843B-48DC-A9F8-CE3B7E205D67}.Debug|Win32.Build.0 = Debug|Win32
+		{FC568C27-843B-48DC-A9F8-CE3B7E205D67}.Release|Win32.ActiveCfg = Release|Win32
+		{FC568C27-843B-48DC-A9F8-CE3B7E205D67}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
